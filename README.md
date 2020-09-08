@@ -23,5 +23,12 @@ Citation Details
 --
 BibTeX entry:
 ```
-@article{Li_2018,   title={Deep Kernel Extreme-Learning Machine for the Spectral–Spatial Classification of Hyperspectral Imagery},   volume={10},   ISSN={2072-4292},   url={http://dx.doi.org/10.3390/rs10122036},   DOI={10.3390/rs10122036},   number={12},   journal={Remote Sensing},   publisher={MDPI AG},   author={Li, Jiaojiao and Xi, Bobo and Du, Qian and Song, Rui and Li, Yunsong and Ren, Guangbo},   year={2018},   month={Dec},   pages={2036}}
+@article{Li_2018,   
+title={Deep Kernel Extreme-Learning Machine for the Spectral–Spatial Classification of Hyperspectral Imagery},   
+volume={10}, ISSN={2072-4292},   
+url={http://dx.doi.org/10.3390/rs10122036},   
+DOI={10.3390/rs10122036},   
+number={12}, journal={Remote Sensing}, publisher={MDPI AG},   
+author={Li, Jiaojiao and Xi, Bobo and Du, Qian and Song, Rui and Li, Yunsong and Ren, Guangbo},   
+year={2018},month={Dec},pages={2036}}
 ```
