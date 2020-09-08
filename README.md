@@ -18,7 +18,7 @@ Please simply run the 'run_demo.m' to reproduce our MSC-EDKELM results on [India
 <img src="/Image/trainingMap.jpg" width="200"/>
 <img src="/Image/classification_map.jpg" width="200"/>
 </p></div>
-<div align=center>Fig. 2: The composite false-color image, groundtruth, and classification map of Indian Pines dataset.</div>
+<div align=center>Fig. 2: The composite false-color image, groundtruth, training samples, and classification map of Indian Pines dataset.</div>
       
 References
 --
