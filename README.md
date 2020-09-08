@@ -5,4 +5,5 @@ Bobo Xi, Jiaojiao Li, Yunsong Li, Rui song, Weiwei Sun and Qian Du.
 ***
 code for paper: Multiscale Context-aware Ensemble Deep KELM for Efficient Hyperspectral Image Classification
 
-![Image text](/Image/framework.jpg)
+<img src="/Image/framework.jpg" width="50%" height="50%">
+
