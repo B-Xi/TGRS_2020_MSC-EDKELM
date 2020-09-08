@@ -39,3 +39,13 @@ number={12}, journal={Remote Sensing}, publisher={MDPI AG},
 author={Li, Jiaojiao and Xi, Bobo and Du, Qian and Song, Rui and Li, Yunsong and Ren, Guangbo},   
 year={2018},month={Dec},pages={2036}}
 ```
+
+Licensing
+--
+Copyright (C) 2020 Bobo Xi and Jiaojiao Li
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3 of the License.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program.
