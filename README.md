@@ -10,7 +10,7 @@ Fig. 1: Illustration of the proposed multiscale context-aware ensemble deep KELM
 
 Training and Test Process
 --
-Please simply run the 'run_demo.m' to reproduce our MSC-EDKELM results on IndianPines dataset. You can obtain the classification accuracies and the corresponding classification maps shown below. We have successfully test it on Ubuntu 16.04 and Windows systems with Matlab R2017b.
+Please simply run the 'run_demo.m' to reproduce our MSC-EDKELM results on [[IndianPines]](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes#Indian_Pines) dataset. You can obtain the classification accuracies and the corresponding classification maps shown below. We have successfully test it on Ubuntu 16.04 and Windows systems with Matlab R2017b.
 
 <div align=center><p float="center">
 <img src="/Image/falsecolorimage.jpg" width="200"/>
