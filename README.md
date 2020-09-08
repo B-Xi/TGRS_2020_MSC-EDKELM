@@ -12,11 +12,11 @@ Training and Test Process
 --
 Please simply run the 'run_demo.m' to reproduce our MSC-EDKELM results on IndianPines dataset. You can obtain the classification accuracies and the corresponding classification maps shown below. We have successfully test it on Ubuntu 16.04 and Windows systems with Matlab R2017b.
 
-<p float="center">
+<div align=center><p float="center">
 <img src="/Image/falsecolorimage.jpg" width="200"/>
 <img src="/Image/IndianP_gt.jpg" width="200"/>
 <img src="/Image/classification_map.jpg" width="200"/>
-</p>
+</p></div>
 Fig. 2: The composite false-color image, groundtruth, and classification map of Indian Pines dataset. 
       
 References
