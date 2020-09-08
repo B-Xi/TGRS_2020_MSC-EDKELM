@@ -3,7 +3,7 @@ Multiscale Context-aware Ensemble Deep KELM for Efficient Hyperspectral Image Cl
 [Bobo Xi](https://scholar.google.com/citations?user=O4O-s4AAAAAJ&hl=zh-CN), [Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=sra), [Yunsong Li](https://dblp.uni-trier.de/pid/87/5840.html), [Rui song](https://scholar.google.com/citations?user=_SKooBYAAAAJ&hl=zh-CN), [Weiwei Sun](https://dblp.org/pid/63/6566-5.html) and [Qian Du](https://scholar.google.com/citations?user=0OdKQoQAAAAJ&hl=zh-CN).
 
 ***
-code for paper: Multiscale Context-aware Ensemble Deep KELM for Efficient Hyperspectral Image Classification
+Code for paper: Multiscale Context-aware Ensemble Deep KELM for Efficient Hyperspectral Image Classification
 
 <div align=center><img src="/Image/framework.jpg" width="80%" height="80%"></div>
 Fig. 1: Illustration of the proposed multiscale context-aware ensemble deep KELM frameworks. Weighted output layer fusion strategy (WOLFS).
