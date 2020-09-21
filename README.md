@@ -3,7 +3,7 @@ Multiscale Context-aware Ensemble Deep KELM for Efficient Hyperspectral Image Cl
 [Bobo Xi](https://scholar.google.com/citations?user=O4O-s4AAAAAJ&hl=zh-CN), [Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=sra), [Yunsong Li](https://dblp.uni-trier.de/pid/87/5840.html), [Rui song](https://scholar.google.com/citations?user=_SKooBYAAAAJ&hl=zh-CN), [Weiwei Sun](https://dblp.org/pid/63/6566-5.html) and [Qian Du](https://scholar.google.com/citations?user=0OdKQoQAAAAJ&hl=zh-CN).
 
 ***
-Code for paper: Multiscale Context-aware Ensemble Deep KELM for Efficient Hyperspectral Image Classification
+Code for paper: Multiscale Context-aware Ensemble Deep KELM for Efficient Hyperspectral Image Classification (later it will be released).
 
 <div align=center><img src="/Image/framework.jpg" width="80%" height="80%"></div>
 Fig. 1: Illustration of the proposed multiscale context-aware ensemble deep KELM frameworks. Weighted output layer fusion strategy (WOLFS).
@@ -24,7 +24,7 @@ References
 --
 If you find this code helpful, please kindly cite:
 
-[1] B. Xi, J. Li, Y. Li, R. Song, W. Sun and Q. Du, “Multiscale Context-aware Ensemble Deep KELM for Efficient Hyperspectral Image Classification,” IEEE Transactions on Geoscience and Remote Sensing, 2020. DOI: 10.1109/TGRS.2020.3022029.  
+[1] B. Xi, J. Li, Y. Li, R. Song, W. Sun and Q. Du, “Multiscale Context-aware Ensemble Deep KELM for Efficient Hyperspectral Image Classification,” IEEE Transactions on Geoscience and Remote Sensing, 2020. DOI: 10.1109/TGRS.2020.3022029.
 [2] Li, J.; Xi, B.; Du, Q.; Song, R.; Li, Y.; Ren, G. Deep Kernel Extreme-Learning Machine for the Spectral–Spatial Classification of Hyperspectral Imagery. Remote Sens. 2018, 10, 2036. [DOI: 10.3390/rs10122036](https://www.mdpi.com/2072-4292/10/12/2036).
 
 Citation Details
