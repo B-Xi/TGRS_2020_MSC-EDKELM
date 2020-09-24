@@ -31,7 +31,7 @@ Citation Details
 --
 BibTeX entry:
 ```
-@ARTICLE{9203816,
+@ARTICLE{Xi_TGRS2020_EDKELM,
   author={B. {Xi} and J. {Li} and Y. {Li} and R. {Song} and W. {Sun} and Q. {Du}},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Multiscale Context-Aware Ensemble Deep KELM for Efficient Hyperspectral Image Classification}, 
@@ -41,7 +41,7 @@ BibTeX entry:
   pages={1-17},}
 ```
 ```
-@article{Li_2018,   
+@article{Li_RS2018_DKELM,   
 title={Deep Kernel Extreme-Learning Machine for the Spectral–Spatial Classification of Hyperspectral Imagery},   
 volume={10}, ISSN={2072-4292},   
 url={http://dx.doi.org/10.3390/rs10122036},   
