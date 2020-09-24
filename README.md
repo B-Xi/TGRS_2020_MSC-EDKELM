@@ -40,7 +40,6 @@ BibTeX entry:
   number={},
   pages={1-17},}
 ```
-
 ```
 @article{Li_2018,   
 title={Deep Kernel Extreme-Learning Machine for the Spectral–Spatial Classification of Hyperspectral Imagery},   
