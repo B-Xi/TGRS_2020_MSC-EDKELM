@@ -53,7 +53,7 @@ year={2018},month={Dec},pages={2036}}
 
 Licensing
 --
-Copyright (C) 2020 Bobo Xi and Jiaojiao Li
+Copyright (C) 2020 Bobo Xi
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3 of the License.
 
