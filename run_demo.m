@@ -18,7 +18,7 @@
 %%
 clear, clc
 training_num = 15; % 15 samples per-class
-generate_lables_superpixel0
+%generate_lables_superpixel0
 generateTrainingTestLoc1
 generateTrainingTestDataSuper2
 test
