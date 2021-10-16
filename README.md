@@ -24,7 +24,7 @@ References
 --
 If you find this code helpful, please kindly cite:
 
-[1] B. Xi, J. Li, Y. Li, R. Song, W. Sun and Q. Du, “Multiscale Context-aware Ensemble Deep KELM for Efficient Hyperspectral Image Classification,” IEEE Transactions on Geoscience and Remote Sensing, 2020. [DOI: 10.1109/TGRS.2020.3022029](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9203816).  
+[1] B. Xi, J. Li, Y. Li, R. Song, W. Sun and Q. Du, “Multiscale Context-aware Ensemble Deep KELM for Efficient Hyperspectral Image Classification,” IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 6, pp. 5114-5130, June 2021. [DOI: 10.1109/TGRS.2020.3022029](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9203816).  
 [2] Li, J.; Xi, B.; Du, Q.; Song, R.; Li, Y.; Ren, G. Deep Kernel Extreme-Learning Machine for the Spectral–Spatial Classification of Hyperspectral Imagery. Remote Sens. 2018, 10, 2036. [DOI: 10.3390/rs10122036](https://www.mdpi.com/2072-4292/10/12/2036).
 
 Citation Details
@@ -32,13 +32,14 @@ Citation Details
 BibTeX entry:
 ```
 @ARTICLE{Xi_TGRS2020_EDKELM,
-  author={B. {Xi} and J. {Li} and Y. {Li} and R. {Song} and W. {Sun} and Q. {Du}},
+ author={Xi, Bobo and Li, Jiaojiao and Li, Yunsong and Song, Rui and Sun, Weiwei and Du, Qian},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Multiscale Context-Aware Ensemble Deep KELM for Efficient Hyperspectral Image Classification}, 
-  year={2020},
-  volume={},
-  number={},
-  pages={1-17},}
+  year={2021},
+  volume={59},
+  number={6},
+  pages={5114-5130},
+  doi={10.1109/TGRS.2020.3022029}}
 ```
 ```
 @article{Li_RS2018_DKELM,   
